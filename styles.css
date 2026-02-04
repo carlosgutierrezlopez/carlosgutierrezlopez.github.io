@@ -33,14 +33,14 @@ img
   margin: 12px 0;
 }
 
-.info-row
+.address-row
 {
   display: flex;
   align-items: stretch;
   gap: 12px;
 }
 
-.info-row .glass
+.address-row .glass
 {
   font-size: 18px;
   line-height: 1.2;
